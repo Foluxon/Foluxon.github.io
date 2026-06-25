@@ -60,6 +60,7 @@
       ],
       "exclude_package": [
         "com.tencent.mm",
+        "com.miui.player",
         "com.taobao.taobao",
         "com.jingdong.app.mall",
         "com.eg.android.AlipayGphone"
