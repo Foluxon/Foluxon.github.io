@@ -96,7 +96,7 @@
       "uuid": "24d163e7-2aa1-4889-9763-cb0aff83eec4",
       "tls": {
         "enabled": true,
-        "server_name": "www.microsoft.com",
+        "server_name": "www.cloudflare.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
